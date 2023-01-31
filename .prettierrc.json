@@ -1,6 +1,9 @@
 {
   "singleQuote": true,
-  "trailingComma": "all",
+  "trailingComma": "none",
+  "jsxSingleQuote": true,
+  "proseWrap": "never",
+  "arrowParens": "always",
   "overrides": [
     {
       "files": ["*.ts", "*.mts"],
